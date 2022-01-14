@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(238, 203, 238);
+
+}
+#heading{
+    font-family: 'Playball', cursive;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+}
+p{
+    font-size 80px;
+    font-family: 'Playball', cursive;
+}
